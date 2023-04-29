@@ -1,0 +1,2 @@
+# Obshiy_repositoriy
+laboratornaya
